@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sec-01",
+    "titulo": "Inicio",
+    "caracteres": 313,
+    "segundos": 22.3,
+    "hash": "fcc2abe618b9"
+  },
+  {
+    "id": "sec-02",
+    "titulo": "Encaje",
+    "caracteres": 452,
+    "segundos": 37.1,
+    "hash": "7af5e12bba3b"
+  },
+  {
+    "id": "sec-03",
+    "titulo": "Arquitectura",
+    "caracteres": 381,
+    "segundos": 24.9,
+    "hash": "f309e342e3f7"
+  },
+  {
+    "id": "sec-04",
+    "titulo": "Integraciones",
+    "caracteres": 395,
+    "segundos": 27.5,
+    "hash": "a2a3eb3eb8ab"
+  },
+  {
+    "id": "sec-05",
+    "titulo": "Rendimiento",
+    "caracteres": 243,
+    "segundos": 15.8,
+    "hash": "f88d52aec396"
+  },
+  {
+    "id": "sec-06",
+    "titulo": "Seguridad",
+    "caracteres": 376,
+    "segundos": 26.5,
+    "hash": "568f20f6e88a"
+  },
+  {
+    "id": "sec-07",
+    "titulo": "Liderazgo",
+    "caracteres": 300,
+    "segundos": 20.1,
+    "hash": "e0e4c8849422"
+  },
+  {
+    "id": "sec-08",
+    "titulo": "Tecnología nueva",
+    "caracteres": 320,
+    "segundos": 22.4,
+    "hash": "bb1e62927189"
+  },
+  {
+    "id": "sec-09",
+    "titulo": "Productos",
+    "caracteres": 784,
+    "segundos": 53.5,
+    "hash": "76ac900f70b3"
+  },
+  {
+    "id": "sec-10",
+    "titulo": "Cierre",
+    "caracteres": 234,
+    "segundos": 16.1,
+    "hash": "4cb20911c1b5"
+  }
+]
